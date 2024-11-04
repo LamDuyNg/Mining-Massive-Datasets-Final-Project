@@ -18,5 +18,5 @@ I implemented the dimensionality reduction process, using SVD to compress the CI
 
 ## Setup Instructions
 1. Clone the repository.
-2. Install required libraries (add any specific commands here).
+2. Install required libraries
 3. Run `task2_svd.py` to execute the SVD process on CIFAR-10 dataset.
